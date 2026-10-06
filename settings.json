@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "naime99.aternos.me:25779",
+    "port": 25779,
     "version": "",
     "try-creative": false
   },
